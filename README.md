@@ -13,9 +13,5 @@
 </p>
   
 [Personal Website](https://www.nickdoulos.com/)
- 
-<h3 align="center">Support Me:</h3>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y47W9W4)
 
 </div>
