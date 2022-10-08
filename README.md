@@ -2,9 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5800&duration=7000&center=true&vCenter=true&lines=I'm+Nick+Doulos;Digital+Systems+Student+%40+UniPi)](https://git.io/typing-svg)
   
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Nick-Doulos)](https://www.nickdoulos.com/)
-  
-<hr>      
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nickdoulos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nickdoulos/" height="30" width="40" /></a>
