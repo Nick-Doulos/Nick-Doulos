@@ -1,8 +1,4 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5800&duration=7000&center=true&vCenter=true&lines=I'm+Nick+Doulos;Digital+Systems+Student+%40+UniPi)](https://git.io/typing-svg)
-
-<h3 style='text-align: justify;'>Data Scientist in the Making</h3>
 
 ---
 
